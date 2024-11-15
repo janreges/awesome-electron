@@ -132,6 +132,7 @@ Made with Electron.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
+- [SiteOne Crawler](https://github.com/janreges/siteone-crawler-gui) - Cross-platform website analyzer (SEO, security, accessibility, performance) and cloner.
 
 ### Closed Source
 
